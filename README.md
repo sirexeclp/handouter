@@ -10,7 +10,7 @@ Install them with:
 
 Run `removedups.py`:
 
-    python3 removedups.py file.pdf
+    python3 handouter.py file.pdf
 
 The result will be saved in `file.pdf.short.pdf`.
 
