@@ -8,7 +8,7 @@ Install them with:
    
   
 
-Run `removedups.py`:
+Run `handouter.py`:
 
     python3 handouter.py file.pdf
 
